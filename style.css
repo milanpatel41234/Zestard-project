@@ -259,8 +259,7 @@ header .sm {
   
 }
 .box1 .box1-img {
-  width: 100vw;
-  max-width: 700px;
+  width: 50vw;
   height: 70vh;
 }
 .box1-img img {
@@ -488,6 +487,9 @@ footer {
   .box2 {
     display: flex;
     flex-direction: column;
+  }
+  .box1 .box1-img {
+    width: 100vw;
   }
   .box1-details {
     width: 100%;
