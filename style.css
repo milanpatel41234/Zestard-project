@@ -254,11 +254,13 @@ header .sm {
 }
 .box1 {
   display: flex;
-  margin: 30px 0;
+  width: fit-content;
+  margin: 30px auto;
+  
 }
 .box1 .box1-img {
   width: 100vw;
-  max-width: 900px;
+  max-width: 700px;
   height: 70vh;
 }
 .box1-img img {
