@@ -483,6 +483,9 @@ footer {
     margin: 5px;
     width: 70vw;
   }
+  .slider .img{
+    height: 50vh;
+  }
   .box1,
   .box2 {
     display: flex;
@@ -503,6 +506,7 @@ footer {
   .screenshot-holder {
     flex-direction: column;
     width: 90vw;
+    
     margin: auto;
   }
   .screenshot-holder .card {
